@@ -13,6 +13,7 @@
       "div",
       "em",
       "footer",
+      "g",
       "h1",
       "h2",
       "h3",
@@ -483,6 +484,7 @@
       "shrink-0",
       "sidebar-active-item",
       "skills-content",
+      "skills-description",
       "skills-icon",
       "skills-name",
       "sm:-inset-x-6",
@@ -607,8 +609,12 @@
       "test-students",
       "top",
       "video",
+      "зачем-они-нужны",
       "итоги-недели",
+      "как-прошла-учебная-неделя",
+      "легковесные-языки-разметки",
       "о-себе",
+      "основные-особенности",
       "управление-версиями-git"
     ]
   }

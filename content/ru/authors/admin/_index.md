@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Теоретическая механика
+  - Искусственный интеллект
+  - Футбол
+  - Путешествия
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю математику и механику, интересуюсь численными методами и моделированием физических процессов.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Обучаюсь фундаментальной математике, механике и программированию.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,43 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
+        description: Основы программирования и математического моделирования
+        percent: 70
+        icon: code-bracket
+      - name: C++
+        description: Использую для решения задач по механике
         percent: 60
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: MATLAB
+        description: Работа с численными методами
+        percent: 50
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Линейная алгебра
+        description: Применяю для решения уравнений механики
+        percent: 75
+        icon: matrix
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Футбол
+        description: Играю и слежу за международными турнирами
+        percent: 90
+      - name: Шахматы
+        description: Люблю стратегические игры
         percent: 80
+      - name: Путешествия
+        description: Исследую новые города и страны
+        percent: 70
 
 languages:
-  - name: Русский
+  - name: Арабский
     percent: 100
+  - name: Русский
+    percent: 85
   - name: Английский
-    percent: 60
+    percent: 75
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
